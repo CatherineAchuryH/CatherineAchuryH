@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Catherine Achury
+# 👋 Hi, I'm Catherine Achury - achurycatherine@gmail.com
 
 **Full Stack Developer | Backend Specialist**
 
