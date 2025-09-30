@@ -2,7 +2,7 @@
 
 **Full Stack Developer | Backend Specialist**
 
-Welcome to my GitHub! I'm a passionate Full Stack Developer with a strong focus on backend technologies. I thrive on building robust APIs and scalable applications, always eager to learn and tackle new challenges.
+Welcome to my GitHub! I'm a passionate Full Stack Developer with a strong focus on backend technologies. I thrive on building reliable APIs and scalable applications, always eager to learn and tackle new challenges.
 
 ---
 
