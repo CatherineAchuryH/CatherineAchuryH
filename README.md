@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Catherine Achury
 
-**Desarrolladora Full Stack | Backend Specialist**
+**Full Stack Developer | Backend Specialist**
 
 Welcome to my GitHub! I'm a passionate Full Stack Developer with a strong focus on backend technologies. I thrive on building robust APIs and scalable applications, always eager to learn and tackle new challenges.
 
